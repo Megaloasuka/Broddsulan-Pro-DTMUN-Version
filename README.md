@@ -3,7 +3,7 @@
 ### *V2.20*  
 ![DTMUN](http://tva2.sinaimg.cn/crop.0.0.180.180.180/a034da3fjw1e8qgp5bmzyj2050050aa8.jpg)  
 
-通过C#[包装生成][http://www.cnblogs.com/heiao10duan/p/7388863.html]
+通过C#包装生成exe.[http://www.cnblogs.com/heiao10duan/p/7388863.html]
 > 1.  打开vs2015(其他版本应该也是一样的)，打开菜单 文件——>新建——>项目，下图1.1，打开后的界面如下图1.2  
 > ![1.1](http://images2017.cnblogs.com/blog/521465/201708/521465-20170818102749771-1932323087.png)  
 > ![1.2](http://images2017.cnblogs.com/blog/521465/201708/521465-20170818103015381-1016719430.png)  
