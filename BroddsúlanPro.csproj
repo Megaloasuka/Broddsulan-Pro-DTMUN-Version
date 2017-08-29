@@ -44,6 +44,14 @@
     <Compile Include="BroddsúlanPro\My\MyProject.cs" />
     <Compile Include="BroddsúlanPro\AboutBox1.cs" />
     <Compile Include="BroddsúlanPro\award.cs" />
+    <Compile Include="BroddsúlanPro\cabinet.cs" />
+    <Compile Include="BroddsúlanPro\Form1.cs" />
+    <Compile Include="BroddsúlanPro\loadword.cs" />
+    <Compile Include="BroddsúlanPro\My\Resources\Resources.cs" />
+    <Compile Include="BroddsúlanPro\My\MySettings.cs" />
+    <Compile Include="BroddsúlanPro\PanelsExpanding.cs" />
+    <Compile Include="BroddsúlanPro\speakersList.cs" />
+    <Compile Include="BroddsúlanPro\SplashScreen1.cs" />
     <EmbeddedResource Include="BroddsúlanPro.Form1.resources" />
     <EmbeddedResource Include="BroddsúlanPro.award.resources" />
     <EmbeddedResource Include="BroddsúlanPro.AboutBox1.resources" />
