@@ -50,7 +50,7 @@
     <Compile Include="BroddsúlanPro\Broddsúlan_Pro\Resources\Resources.cs" />
     <Compile Include="BroddsúlanPro\Broddsúlan_Pro\MySettings.cs" />
     <Compile Include="BroddsúlanPro\PanelsExpanding.cs" />
-    <Compile Include="BroddsúlanPro\speakersList.cs" />
+    <Compile Include="BroddsúlanPro\SpeakersList.cs" />
     <Compile Include="BroddsúlanPro\SplashScreen1.cs" />
     <EmbeddedResource Include="BroddsúlanPro.Form1.resources" />
     <EmbeddedResource Include="BroddsúlanPro.award.resources" />
