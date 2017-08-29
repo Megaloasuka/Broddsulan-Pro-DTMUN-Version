@@ -1,6 +1,6 @@
-namespace EC2_MineChair
+namespace BroddsúlanPro
 {
-    using EC2_MineChair.My;
+    using BroddsúlanPro.My;
     using Microsoft.VisualBasic;
     using Microsoft.VisualBasic.CompilerServices;
     using System;
